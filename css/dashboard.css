@@ -1,0 +1,9 @@
+#wp-admin-bar-wp-logo {
+    display: none;
+}
+#wpfooter {
+    display: none;
+}
+#login {
+    display: none;
+}
